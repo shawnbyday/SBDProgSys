@@ -18,6 +18,21 @@ public class ModCreativeModeTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.FLINTWORKED.get());
                         pOutput.accept(ModItems.KNIFEWORKING.get());
+                        pOutput.accept(ModItems.LW_AWL.get());
+                        pOutput.accept(ModItems.LW_BEVELER.get());
+                        pOutput.accept(ModItems.LW_BURNISHER.get());
+                        pOutput.accept(ModItems.LW_CHISEL.get());
+                        pOutput.accept(ModItems.LW_CUTTING_MAT.get());
+                        pOutput.accept(ModItems.LW_GLUE.get());
+                        pOutput.accept(ModItems.LW_MAUL.get());
+                        pOutput.accept(ModItems.LW_NEEDLE.get());
+                        pOutput.accept(ModItems.LW_PICKING_IRON.get());
+                        pOutput.accept(ModItems.LW_PUNCH.get());
+                        pOutput.accept(ModItems.LW_ROTARY_CUTTER.get());
+                        pOutput.accept(ModItems.LW_SKIVER.get());
+                        pOutput.accept(ModItems.LW_STAMP.get());
+                        pOutput.accept(ModItems.LW_STRAP_CUTTER.get());
+                        pOutput.accept(ModItems.LW_THREAD.get());
                     })
                     .build());
 
