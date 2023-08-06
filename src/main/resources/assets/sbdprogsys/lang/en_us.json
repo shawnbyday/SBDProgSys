@@ -2,5 +2,21 @@
   "item.sbdprogsys.flint_worked": "Worked Flint",
   "item.sbdprogsys.knife_working": "Working Knife",
 
+  "item.sbdprogsys.lw_awl": "Leatherworking Awl",
+  "item.sbdprogsys.lw_beveler": "Leatherworking Beveler",
+  "item.sbdprogsys.lw_burnisher": "Leatherworking Burnisher",
+  "item.sbdprogsys.lw_strap_cutter": "Leatherworking Strap Cutter",
+  "item.sbdprogsys.lw_rotary_cutter": "Leatherworking Rotary Cutter",
+  "item.sbdprogsys.lw_glue": "Leatherworking Glue",
+  "item.sbdprogsys.lw_maul": "Leatherworking Maul",
+  "item.sbdprogsys.lw_picking_iron": "Leatherworking Picking Iron",
+  "item.sbdprogsys.lw_chisel": "Leatherworking Chisel",
+  "item.sbdprogsys.lw_punch": "Leatherworking Punch",
+  "item.sbdprogsys.lw_skiver": "Leatherworking Skiver",
+  "item.sbdprogsys.lw_stamp": "Leatherworking Stamp",
+  "item.sbdprogsys.lw_needle": "Leatherworking Needle",
+  "item.sbdprogsys.lw_thread": "Leatherworking Thread",
+  "item.sbdprogsys.lw_cutting_mat": "Leatherworking Cutting Mat",
+
   "creativetab.sbdprogsys_tab": "SBD Progression System"
 }
